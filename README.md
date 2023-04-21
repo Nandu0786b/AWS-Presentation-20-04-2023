@@ -1,3 +1,5 @@
+**[LINKEDIN ](https://www.linkedin.com/in/nand-kishore-ola/)**                    
+
 ![welcome](https://github.com/Nandu0786b/AWS-Presentation-20-04-2023/blob/main/sample%20pic/aws1%20-%20Copy.jpeg)
 
 # AWS-Presentation-20-04-2023
@@ -35,6 +37,8 @@ The presentation is available in PowerPoint format in the `presentation/` direct
 ## Contact
 
 If you have any questions or feedback on the presentation, feel free to reach out to me at [https://www.linkedin.com/in/nand-kishore-ola/].
+**[visit ](https://www.linkedin.com/posts/nand-kishore-ola_security-aws-awsdevops-activity-7055109474373541888-jtDs?utm_source=share&utm_medium=member_desktop)**
+**[visit ](https://www.linkedin.com/feed/update/urn:li:activity:7055111026530222080/)**
 
 Happy learning!
 
