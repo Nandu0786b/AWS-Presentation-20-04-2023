@@ -1,3 +1,5 @@
+![welcome](https://github.com/Nandu0786b/AWS-Presentation-20-04-2023/blob/main/sample%20pic/aws1%20-%20Copy.jpeg)
+
 # AWS-Presentation-20-04-2023
 This repository contains the slides and code samples used in my recent presentation on AWS, covering topics such as EC2, storage, price optimization, security, and scalability.
 
@@ -14,9 +16,19 @@ This repository contains the slides from my recent presentation on AWS services 
 - DevOps roadmap
 
 The presentation is intended as a resource for anyone interested in learning more about these topics and exploring the capabilities of AWS. 
+## Sample slides
 
 
 ## Viewing the Presentation
+![sample2](https://github.com/Nandu0786b/AWS-Presentation-20-04-2023/blob/main/sample%20pic/aws2%20-%20Copy.jpeg)
+![sample3](https://github.com/Nandu0786b/AWS-Presentation-20-04-2023/blob/main/sample%20pic/aws3%20-%20Copy.jpeg)
+![sample4](https://github.com/Nandu0786b/AWS-Presentation-20-04-2023/blob/main/sample%20pic/aws4%20-%20Copy.jpeg)
+![sample4](https://github.com/Nandu0786b/AWS-Presentation-20-04-2023/blob/main/sample%20pic/aws5%20-%20Copy.jpeg)
+![sample5](https://github.com/Nandu0786b/AWS-Presentation-20-04-2023/blob/main/sample%20pic/aws6%20-%20Copy.jpeg)
+![sample6](https://github.com/Nandu0786b/AWS-Presentation-20-04-2023/blob/main/sample%20pic/aws7%20-%20Copy.jpeg)
+![user data script during ec2 create](https://github.com/Nandu0786b/AWS-Presentation-20-04-2023/blob/main/sample%20pic/User%20Data.jpeg)
+![nginx response from the ec2](https://github.com/Nandu0786b/AWS-Presentation-20-04-2023/blob/main/sample%20pic/nginx%20response%20from%20ec2%20machine.jpeg)
+
 
 The presentation is available in PowerPoint format in the `presentation/` directory. You can download the presentation and view it using Microsoft PowerPoint or another compatible presentation software.
 
